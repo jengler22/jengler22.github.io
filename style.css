@@ -1,0 +1,14 @@
+body{
+ background-color: #5555;
+    color: #0000ff;
+   margin: 10% 20%;
+  }
+h1{ color: #800080}
+h3{ color: #ff7f50}
+h4{ color: #dc143c}
+
+.experience-header{
+  text-transform: uppercase;
+  border-top: 5px solid #ffff00;
+  border-bottom: 5px solid #ffff00;
+  }
